@@ -1,0 +1,5 @@
+Revision history for POE-Component-Bundle-WebDevelopment
+
+1.001002  2014-02-02
+    - Bundled all the separate PoCos into one dist, for ease
+      of Maintenance
