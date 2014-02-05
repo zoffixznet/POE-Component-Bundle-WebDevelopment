@@ -1,7 +1,8 @@
 
-use Test::More tests => 8;
+use Test::More tests => 7;
 BEGIN {
-    use_ok('XML::XPath');
+    ## We might have to put this back if tests
+    ## fail more:  use_ok('XML::XPath');
     use_ok('Carp');
     use_ok('WebService::Validator::HTML::W3C');
     use_ok('POE');

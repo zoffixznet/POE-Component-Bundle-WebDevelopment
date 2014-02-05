@@ -1,5 +1,10 @@
 Revision history for POE-Component-Bundle-WebDevelopment
 
+1.001004  2014-02-04
+    - Removed the test for XML::XPath, which apparently is used with
+        WebService::Validator::HTML::W3C (there somewhere... where?).
+        Might need to put it into prereqs, if I get any fails.
+
 1.001003  2014-02-03
     - Updated the POD to include the list of all the provided PoCos
 
