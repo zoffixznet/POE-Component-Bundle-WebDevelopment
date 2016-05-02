@@ -16,7 +16,6 @@ This distribution provides the following
 - [POE::Component::WWW::Cache::Google](https://metacpan.org/pod/POE::Component::WWW::Cache::Google) - non-blocking wrapper around [WWW::Cache::Google](https://metacpan.org/pod/WWW::Cache::Google)
 - [POE::Component::WWW::DoctypeGrabber](https://metacpan.org/pod/POE::Component::WWW::DoctypeGrabber) - non-blocking wrapper around [WWW::DoctypeGrabber](https://metacpan.org/pod/WWW::DoctypeGrabber)
 - [POE::Component::WWW::GetPageTitle](https://metacpan.org/pod/POE::Component::WWW::GetPageTitle) - non-blocking wrapper around [WWW::GetPageTitle](https://metacpan.org/pod/WWW::GetPageTitle)
-- [POE::Component::WWW::Google::PageRank](https://metacpan.org/pod/POE::Component::WWW::Google::PageRank) - A non-blocking wrapper for [WWW::Google::PageRank](https://metacpan.org/pod/WWW::Google::PageRank)
 - [POE::Component::WWW::HTMLTagAttributeCounter](https://metacpan.org/pod/POE::Component::WWW::HTMLTagAttributeCounter) - non-blocking wrapper around [WWW::HTMLTagAttributeCounter](https://metacpan.org/pod/WWW::HTMLTagAttributeCounter)
 - [POE::Component::WWW::Lipsum](https://metacpan.org/pod/POE::Component::WWW::Lipsum) - non-blocking wrapper around [WWW::Lipsum](https://metacpan.org/pod/WWW::Lipsum)
 - [POE::Component::WWW::WebDevout::BrowserSupportInfo](https://metacpan.org/pod/POE::Component::WWW::WebDevout::BrowserSupportInfo) - non-blocking access to browser support API on [http://webdevout.net](http://webdevout.net)
@@ -44,7 +43,7 @@ to `bug-POE-Component-Bundle-WebDevelopment at rt.cpan.org`
 
 # AUTHOR
 
-Zoffix Znet <zoffix at cpan.org>
+Zoffix Znet &lt;zoffix at cpan.org>
 ([http://zoffix.com/](http://zoffix.com/), [http://haslayout.net/](http://haslayout.net/))
 
 # LICENSE
