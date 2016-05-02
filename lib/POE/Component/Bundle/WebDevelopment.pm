@@ -42,8 +42,6 @@ L<POE::Component> modules:
 
 =item * L<POE::Component::WWW::GetPageTitle> - non-blocking wrapper around L<WWW::GetPageTitle>
 
-=item * L<POE::Component::WWW::Google::PageRank> - A non-blocking wrapper for L<WWW::Google::PageRank>
-
 =item * L<POE::Component::WWW::HTMLTagAttributeCounter> - non-blocking wrapper around L<WWW::HTMLTagAttributeCounter>
 
 =item * L<POE::Component::WWW::Lipsum> - non-blocking wrapper around L<WWW::Lipsum>
