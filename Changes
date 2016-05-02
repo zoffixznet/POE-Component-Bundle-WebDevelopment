@@ -1,5 +1,8 @@
 Revision history for POE-Component-Bundle-WebDevelopment
 
+2.001001  2016-05-02
+    - Removed ::PageRank (the endpoint to retrieve it is no longer supported by Google)
+
 1.001004  2014-02-04
     - Removed the test for XML::XPath, which apparently is used with
         WebService::Validator::HTML::W3C (there somewhere... where?).
